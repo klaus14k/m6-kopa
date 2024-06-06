@@ -1,4 +1,4 @@
-# M5 - Kopa do Mundo
+# M6 - Kopa do Mundo
 
 ## Preparando ambiente para execução dos testes
 ### Procedimentos para rodar os testes da tarefa 1
